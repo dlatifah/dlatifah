@@ -14,8 +14,6 @@
    - Gold Medalist IWSC (International Walisongo Science Competition) 2022
    - Staff of BEM Himatika 'Identika' UPI
    - Staff of UKM BAQI UPI
-     
- #### 2. [SMA N 1 Cibadak](https://sman1cibadak.sch.id/) | MIPA | Sukabumi `2016-2019`
 
 ## Work Experience:
 #### 1. [BPS (Badan Pusat Statistik) Provinsi Jawa Barat](https://jabar.bps.go.id/) | Staff Intern | Bandung `Oct'2022 - Nov'2022`
@@ -23,9 +21,7 @@
    - Digitize old publications so that everyone can access them online.
 #### 2. [PT. IQ Edukasi (CoLearn](https://colearn.id/) | Mathematics Video Solution Maker (Part-time) | Remote `Jun'2021-Nov'2021`
    - Produce 250+ explanation videos about a mathematical problem for junior and senior high school students.
-   - Improve my video and audio editing skills, also intonation and math skills through weekly training from CoLearn.
-   - Achieved Best Video of the Month award from CoLearn (Awarded on September 8, 2021).
-   - Provide good quality products, so included in the top 15 employees, and retained until the end of the project (out of a total of 50+ employees).
+     
 ---
 
 ### Languages and Tools:
